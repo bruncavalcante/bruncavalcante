@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, SQL, HTML, CSS and JavaScript.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruncavalcante)](https://github.com/bruncavalcante/github-readme-stats)
+&langs_count=10
 
 
