@@ -2,7 +2,7 @@
 <p>
   <h1 align="center">Hi there, I'm Bruno!</h1>
   
-  <h3 align="center">🎓 I’m currently learning HTML, CSS and JavaScript.</h3>
+  <h3 align="center">🎓 I’m currently learning HTML, CSS, JavaScript, Python and SQL.</h3>
 </p>
 
 <p align="center">
