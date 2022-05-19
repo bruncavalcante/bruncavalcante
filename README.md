@@ -17,7 +17,7 @@
 </p>
 
 <P align="center">
-  ![](https://komarev.com/ghpvc/?username=bruncavalcante)
+![](https://komarev.com/ghpvc/?username=bruncavalcante)
 </p>
 
 
