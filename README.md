@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruncavalcante&langs_count=10&layout=compact)](https://github.com/bruncavalcante/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=bruncavalcante)
+
+
+
+
 <!--
 **bruncavalcante/bruncavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,11 +24,10 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python, SQL, HTML, CSS and JavaScript.
 
-<!--
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruncavalcante&langs_count=10&layout=compact)](https://github.com/bruncavalcante/github-readme-stats)
 
---!>
+
+
 
 
 
