@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🎓 I’m currently learning Python, SQL, HTML, CSS and JavaScript.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruncavalcante&langs_count=10&layout=compact)](https://github.com/bruncavalcante/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=bruncavalcante)
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Python, SQL, HTML, CSS and JavaScript.
+
 
 
 
