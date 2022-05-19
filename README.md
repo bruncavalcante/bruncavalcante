@@ -1,6 +1,7 @@
 
 <p>
   <h1 align="center">Hi there, I'm Bruno!</h1>
+  ---
   <h3 align="center">🎓 I’m currently learning HTML, CSS and JavaScript.</h6>
 </p>
 
