@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> 
   </a>
 </p>
