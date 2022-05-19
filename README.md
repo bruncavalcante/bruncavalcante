@@ -1,6 +1,7 @@
 
 <p>
-  <h1 align="center"><b>Hi there, I'm Bruno!></h1>
+  <h1 align="center">Hi there, I'm Bruno!></h1>
+  <h6 align="center">- 🎓 I’m currently learning Python, SQL, HTML, CSS and JavaScript.</h6>
 </p>
 
 <p>
