@@ -16,7 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruncavalcante&layout=compact&theme=radical&hide=ruby" width="400" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=bruncavalcante)
 
 
 
@@ -37,6 +36,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 
