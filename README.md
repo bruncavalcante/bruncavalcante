@@ -16,9 +16,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruncavalcante&layout=compact&theme=radical&hide=ruby" width="400" />
 </p>
 
-<P align="center">
 ![](https://komarev.com/ghpvc/?username=bruncavalcante)
-</p>
+
 
 
 
