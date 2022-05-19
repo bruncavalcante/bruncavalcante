@@ -1,7 +1,7 @@
 
 <p>
   <h1 align="center">Hi there, I'm Bruno!></h1>
-  <h6 align="center">- 🎓 I’m currently learning Python, SQL, HTML, CSS and JavaScript.</h6>
+  <h3 align="center">- 🎓 I’m currently learning Python, SQL, HTML, CSS and JavaScript.</h6>
 </p>
 
 <p>
@@ -16,8 +16,8 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=bruncavalcante&theme=radical&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruncavalcante&layout=compact&theme=radical" width="400" />
 </p>
 
 
