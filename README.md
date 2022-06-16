@@ -1,4 +1,4 @@
-<!--
+
 <p>
   <h1 align="center">Hi there, I'm Bruno!</h1>
   
@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bruncavalcante&theme=github_dark&show_icons=true" width="410">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruncavalcante&layout=compact&theme=github_dark&hide=ruby&langs_count=5" width="400">
 </p>
--->
+
 
 <!--
 
@@ -52,23 +52,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-# 💫About Me :
-🎓 I’m currently learning HTML, CSS, JavaScript, Python, SQL, and Java.
-
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bruncavalcante/) 
-
-# 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=bruncavalcante&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bruncavalcante&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bruncavalcante&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=bruncavalcante&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
