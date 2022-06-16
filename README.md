@@ -28,6 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bruncavalcante&theme=github_dark&show_icons=true" width="410">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruncavalcante&layout=compact&theme=github_dark&hide=ruby&langs_count=5" width="400">
 </p>
+-->
 
 <!--
 
@@ -46,9 +47,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
---!>
---!>
-
+-->
 
 
 
